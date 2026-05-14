@@ -141,21 +141,6 @@ The scanner analyzes identifiers, operators, numbers, and invalid tokens using D
 
 ---
 
-## Program Output
-
-### Scanner Output
-
-![Scanner Output](screenshots/output.png)
-
-The output demonstrates:
-- Keyword recognition
-- Operator classification
-- Identifier detection
-- Number detection
-- Error handling
-
----
-
 ## Error Handling
 
 The scanner detects invalid tokens and reports:
