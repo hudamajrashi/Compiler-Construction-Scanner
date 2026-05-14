@@ -106,7 +106,7 @@ The DFA handles transitions for:
 
 ### DFA Diagram
 
-![DFA Diagram](diagrams/dfa-diagram.png)
+![DFA Diagram](diagrams/DFA-diagram.png)
 
 ---
 
